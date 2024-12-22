@@ -73,6 +73,7 @@ docs/_build/
 
 # PyBuilder
 .pybuilder/
+# PyBuilder and Rust Cargo
 target/
 
 # Jupyter Notebook
