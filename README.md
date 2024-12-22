@@ -1,10 +1,11 @@
 # Solana Developer Bootcamp 2024
 This repo contains my personal implementations for the Solana Developer Bootcamp from 2024.
 
-## Roadmap (0 / 9)
-* [ ] Project 1
-* [ ] Project 2
-* [ ] Project 3
+## Roadmap (1 / 9)
+* [x] Project 1: Favorites
+* [ ] Project 2: Voting
+* [ ] Project 3: Integrating Blinks and Actions
+* [ ] Project 4: CRUD
 
 
 # Getting it to run
@@ -46,3 +47,4 @@ to your .zshrc
 * [Anchor](https://github.com/coral-xyz/anchor)
 * [Seahorse Lang](https://www.seahorse.dev)
   * Python Module built on top of Anchor
+* https://faucet.solana.com
